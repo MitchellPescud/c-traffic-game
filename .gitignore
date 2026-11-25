@@ -1,0 +1,3 @@
+*.o
+traffic
+tests/LinkedListTest[0-9]
